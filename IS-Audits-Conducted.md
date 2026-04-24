@@ -1,4 +1,4 @@
-# Project 3: Information Systems (IS) Audit & IT GAP Assessment — Banking & Financial Sector
+# Project : Information Systems (IS) Audit & IT GAP Assessment — Banking & Financial Sector
 
 ---
 
